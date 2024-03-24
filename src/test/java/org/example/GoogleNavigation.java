@@ -64,8 +64,6 @@ public class GoogleNavigation {
             element.click();
             Thread.sleep(900000); // Sleep for 1 second
             Thread.sleep(900000); // Sleep for 1 second
-
-
             driver.quit();
         
     }
