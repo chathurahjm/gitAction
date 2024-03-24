@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By; 
- 
 @Test
 public class GoogleNavigation {
 
