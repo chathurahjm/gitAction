@@ -47,7 +47,7 @@ public class GoogleNavigation {
 
          ChromeOptions chromeOptions = new ChromeOptions();
         //chromeOptions.addArguments("--headless");
-             chromeOptions.addArguments("--disable-extensions");
+         chromeOptions.addArguments("--disable-extensions");
                           chromeOptions.addArguments("--disable-gpu");
              chromeOptions.addArguments("--no-sandbox");
 
