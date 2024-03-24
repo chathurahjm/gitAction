@@ -49,7 +49,7 @@ public class GoogleNavigation {
         //chromeOptions.addArguments("--headless");
              chromeOptions.addArguments("--disable-extensions");
                           chromeOptions.addArguments("--disable-gpu");
-             chromeOptions.add_argument("--no-sandbox");
+             chromeOptions.addArguments("--no-sandbox");
 
 
         // Set headless mode
