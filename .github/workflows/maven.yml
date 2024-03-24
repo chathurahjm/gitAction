@@ -32,8 +32,8 @@ jobs:
       run: sudo apt-get install xvfb -y
 
       # Start Xvfb
-    - name: Start Xvfb
-      run: Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+    #- name: Start Xvfb
+    #  run: Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
         
     - name: Download ChromeDriver
       run: | 
