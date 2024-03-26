@@ -12,7 +12,7 @@ import org.openqa.selenium.By;
 public class GoogleNavigation {
     protected WebDriver driver;
 
-    
+
     // @Test
     // public void testActions() {
     //     System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
