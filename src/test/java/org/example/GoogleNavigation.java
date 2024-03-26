@@ -10,7 +10,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By; 
 @Test
 public class GoogleNavigation {
-
     protected WebDriver driver;
     // @Test
     // public void testActions() {
